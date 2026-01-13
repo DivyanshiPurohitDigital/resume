@@ -1,6 +1,8 @@
-DIVYANSHI PUROHIT | Business / Data Analyst  
-+44 7901640632 | divyanshipurohit10@gmail.com
+DIVYANSHI PUROHIT | Business / Data Analyst | London/Southampton/Delhi
++44 7901640632 | divyanshipurohit10@gmail.com 
+
 www.linkedin.com/in/divyanshipurohit-finance
+
 https://github.com/DivyanshiPurohitDigital
  
 Business/Data Analyst applying SQL, Python, Excel, and dashboards to analyse market performance, evaluate campaigns, and support data-led decisions. Delivers clear, actionable insights to cross-functional teams.
